@@ -1,6 +1,6 @@
 # Students
-Bárbara Nóbrega Galiza - 105937
-Pedro Pinho - 109986
+- Bárbara Nóbrega Galiza - 105937
+- Pedro Pinho - 109986
 
 # ia-digdug
 DigDug clone for AI teaching
